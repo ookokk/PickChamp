@@ -11,6 +11,12 @@ Whether you love quizzes, popular culture, sports, or random "this or that" chal
 - 🔌 Backend API → [pickchamp-api](https://github.com/Pick-Champ/api.git)
 - 📱 Mobile App → [pickchamp-mobile](https://github.com/Pick-Champ/mobile.git)
 
+### 📱 Check out the mobile client on stores:
+
+[![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/pick-champ/id6745738449?platform=iphone)
+&nbsp;&nbsp;
+[![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.okok.pick_champ)
+
 ## 🛠 Tech Stack
 
 ### 📱 Flutter  
@@ -26,11 +32,6 @@ Whether you love quizzes, popular culture, sports, or random "this or that" chal
 ### ⏰ node-cron  
 
 
-### 📱 Check out the mobile client on stores:
-
-[![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/pick-champ/id6745738449?platform=iphone)
-&nbsp;&nbsp;
-[![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.okok.pick_champ)
 
 ## Video: 
 https://github.com/user-attachments/assets/31f6eb08-e786-41ba-86a8-3b2afb36a7e9
