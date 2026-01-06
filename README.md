@@ -12,15 +12,25 @@ Whether you love quizzes, popular culture, sports, or random "this or that" chal
 - 📱 Mobile App → [pickchamp-mobile](https://github.com/Pick-Champ/mobile.git)
 
 ## 🛠 Tech Stack
-- Node.js, TypeScript, MongoDB
-- Flutter / React Native
-- AWS, S3, EC2
 
-## Store Links
+### 📱 Flutter  
+### 🟢 Node.js  
+### 🚂 Express.js  
+### 🍃 MongoDB  
+### 📦 Mongoose  
+### 🔌 AWS-S3-EC2
+### 🔐 JWT  
+### 📁 Multer  
+### 🛡️ CORS & Cookie-parser  
+### ⚙️ dotenv  
+### ⏰ node-cron  
 
-App Store: https://apps.apple.com/us/app/pick-champ/id6745738449 
 
-Play Store: https://play.google.com/store/apps/details?id=com.okok.pick_champ
+### 📱 Check out the mobile client on stores:
+
+[![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/pick-champ/id6745738449?platform=iphone)
+&nbsp;&nbsp;
+[![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.okok.pick_champ)
 
 ## Video: 
 https://github.com/user-attachments/assets/31f6eb08-e786-41ba-86a8-3b2afb36a7e9
