@@ -17,7 +17,9 @@ Whether you love quizzes, popular culture, sports, or random "this or that" chal
 - AWS, S3, EC2
 
 ## Store Links
-App Store: https://apps.apple.com/us/app/pick-champ/id6745738449
+
+App Store: https://apps.apple.com/us/app/pick-champ/id6745738449 
+
 Play Store: https://play.google.com/store/apps/details?id=com.okok.pick_champ
 
 ## Video: 
